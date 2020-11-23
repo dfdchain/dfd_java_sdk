@@ -1,3 +1,5 @@
+# !!! Deprecated !!!
+
 dfd java sdk
 ============
 
